@@ -1,0 +1,178 @@
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+body {
+  width: 100vw;
+  background-color: white;
+}
+.container{
+    display: flex;
+}
+.image {
+  width: 18vw;
+  justify-content: center;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+.image img {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin-top: 10px;
+  margin-bottom: 10px;
+}
+aside {
+  background-color: aliceblue;
+  height: 100vh;
+  width: 18vw;
+  margin-right: 10px;
+}
+.ttt h1 {
+  text-align: center;
+  font-weight: 900;
+  font-size: 13px;
+}
+.ttt .nnn {
+  text-align: center;
+  margin-top: 10px;
+  font-size: 15px;
+  margin-bottom: 15px;
+  font-weight: 500;
+}
+.icons {
+  display: flex;
+}
+.box {
+  height: 25px;
+  width: 25px;
+  background-color: orange;
+  border-radius: 50%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-right: 15px;
+}
+.line {
+  border: 1px solid orange;
+  width: 300px;
+  margin: auto;
+  margin-top: 10px;
+  margin-bottom: 10px;
+}
+.bts {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-bottom: 10px;
+}
+.sec {
+  width: 15vw;
+  margin: auto;
+}
+.wew {
+  padding: 5px 10px;
+  background-color: orange;
+  font-size: 15px;
+  border-radius: 5px;
+}
+.bts h1 {
+  font-size: 15px;
+}
+.pis {
+  width: 15vw;
+  margin: auto;
+}
+.fer {
+  width: 15vw;
+  margin: auto;
+}
+.fer h1 {
+  font-size: 18px;
+  font-weight: 900;
+  margin-bottom: 10px;
+}
+.lan {
+  display: flex;
+  justify-content: space-between;
+}
+.lan h2 {
+  font-size: 15px;
+  margin-bottom: 5px;
+  font-weight: 500;
+}
+
+.far {
+  background: none;
+  border: 1px solid orange;
+  margin-bottom: 10px;
+}
+.nun button{
+    width: 15vw;
+    margin: auto;
+    padding: 10px 20px;
+    background-color: orange;
+    border: none;
+    border-radius: 10px;
+    display: flex;
+    justify-content: center;
+    font-weight: 900;
+    font-size: 15px;
+}
+#middle{
+    width: 70vw;  
+}
+.ttp{
+    height: 35vh;
+    width: 70vw;
+    background-color: aliceblue;
+    margin-bottom: 50px;
+  
+}
+.ttp img{
+    border-radius: 10px;
+    height: 300px;
+}
+.contain{
+    width: 65vw;
+    display: flex;
+    margin: auto;
+    justify-content: space-between;
+    align-self: center;
+}
+.hihi h1{
+    margin-top: 30px;
+    font-size: 40px;
+    margin-bottom: 20px;
+}
+span{
+    color: orange;
+}
+.hihi p{
+    font-size: 20px;
+    margin-bottom: 20px;
+}
+.hihi button{
+    padding: 10px 20px;
+    background-color: orange;
+    border: none;
+    border-radius: 10px;
+    font-weight: 600;
+    font-size: 15px;
+}
+.pyn img{
+    margin-top: 9px;
+}
+.mff{
+    text-align: center;
+}
+.mff h1{
+    margin-top: 20px;
+    font-size: 28px;
+    margin-bottom: 10px;
+}
+.mff p{
+    margin-bottom: 20px;
+}
